@@ -1,1 +1,8 @@
-{"channels":[{"name":"cctv1","sources":["https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8"]}]}
+{"channels":[{"name":"TVB华丽翡翠台","sources":["https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8"]},
+{"name":"TVB星河频道","sources":["https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8"]},
+{"name":"TVB财经台","sources":["https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8"]},
+{"name":"TVB新闻台","sources":["https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8"]},
+{"name":"TVB直播台","sources":["https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8"]},
+{"name":"亚洲武侠频道","sources":["https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8"]},
+{"name":"TVB娱乐新闻台","sources":["https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8"]},
+]}
