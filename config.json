@@ -1,4 +1,4 @@
-{"appversion":"103","channels":[{"name":"TVB","channel":[{"name":"翡翠台","sources":[{"name":"源1","url":"https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8"}]},
+{"appversion":"103","channels":[{"name":"TVB","channel":[{"name":"直播中国","sources":[{"name":"源1","url":"https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001"}]},
 {"name":"星河台","sources":[{"name":"源1","url":"https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8"}]},
 {"name":"财经台","sources":[{"name":"源1","url":"https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8"}]},
 {"name":"新闻台","sources":[{"name":"源1","url":"https://edge6a.v2h-cdn.com/news/news.stream/chunklist.m3u8"}]},
