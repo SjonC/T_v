@@ -10,9 +10,16 @@
 
 
 #### 安装教程
-
-1.  TV端 app-release [gitee](https://gitee.com/Csjon/apks/raw/master/app-release.apk)
-2.  手机控制端  webtv-release [gitee](https://gitee.com/Csjon/apks/raw/master/webtv-release.apk)
+1. 下载
+    * TV端 app-release [gitee](https://gitee.com/Csjon/apks/raw/master/app-release.apk)
+    * 手机控制端 webtv-release [gitee](https://gitee.com/Csjon/apks/raw/master/webtv-release.apk)
+2. 安裝
+    * U盘安装
+    * 当贝推送安装
+    * 小米电视可以使用小米电视助手进行安装
+    * 如电视可以启用ADB，也可以通过ADB进行安装
+       ```shell
+       adb install my-tv.apk
 
 #### 使用说明
 
