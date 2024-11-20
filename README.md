@@ -19,7 +19,7 @@
     * 小米电视可以使用小米电视助手进行安装
     * 如电视可以启用ADB，也可以通过ADB进行安装
        ```shell
-       adb install my-tv.apk
+       adb install app-release.apk
 
 #### 使用说明
 
