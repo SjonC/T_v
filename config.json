@@ -1,5 +1,6 @@
 {
     "appversion": "103", 
+    "apkUrl":"https://gitee.com/Csjon/apks/raw/master/app-release.apk",
     "channels": [
         {
             "name": "CCTV",
