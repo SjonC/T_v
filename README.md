@@ -24,7 +24,9 @@
 #### 使用说明
 
   能打开就能用,有啥功能自行摸索
- 
+
+ ![image](./Screenshot_T_v.jpg)
+
 ## 赞赏
 
 ![image](./zs.jpg)
